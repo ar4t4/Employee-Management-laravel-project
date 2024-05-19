@@ -40,9 +40,9 @@
                         <div class="col-12">
                             <h4>
                                 <i class="fas fa-globe"></i>
-                                AdminLTE, Inc.
+                                AR.
                                 <small class="float-right"
-                                    >Date: 2/10/2014</small
+                                    >Date: 2/5/2024</small
                                 >
                             </h4>
                         </div>
@@ -55,10 +55,10 @@
                             <address>
                                 <strong>Admin, Inc.</strong
                                 ><br />
-                                795 Folsom Ave, Suite 600<br />
-                                San Francisco, CA 94107<br />
-                                Phone: (804) 123-5432<br />
-                                Email: info@almasaeedstudio.com
+                                KUet<br />
+                                khulna<br />
+                                Phone:1233455<br />
+                                Email: asif00010@gmail.com
                             </address>
                         </div>
                         <!-- /.col -->
@@ -66,9 +66,9 @@
                             To
                             <address>
                                 <strong>John Doe</strong><br />
-                                795 Folsom Ave, Suite 600<br />
-                                San Francisco, CA 94107<br />
-                                Phone: (555) 539-1037<br />
+                              kushtia<br />
+                                <br />
+                                Phone:11000000<br />
                                 Email: john.doe@example.com
                             </address>
                         </div>
@@ -189,7 +189,7 @@
                         <!-- /.col -->
                         <div class="col-6">
                             <p class="lead">
-                                Amount Due 2/22/2014
+                                Amount Due 5/17/2024
                             </p>
 
                             <div class="table-responsive">

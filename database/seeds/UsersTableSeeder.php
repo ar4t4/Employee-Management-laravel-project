@@ -35,20 +35,20 @@ class UsersTableSeeder extends Seeder
         ]);
 
         $employee = User::create([
-            'name' => 'Akashdeep Nandi',
-            'email' => 'akash@gmail.com',
-            'password' => Hash::make('akash')
+            'name' => 'Asif Rahman',
+            'email' => 'asifrahman00010@gmail.com',
+            'password' => Hash::make('12345678')
         ]);
 
         // 
         $employee->roles()->attach($employeeRole);
         $dob = new DateTime('1997-09-15');
-        $join = new DateTime('2020-01-15');
+        $join = new DateTime('2024-01-15');
         $admin->roles()->attach($adminRole);
         $employee = Employee::create([
             'user_id' => $employee->id,
-            'first_name' => 'Akashdeep',
-            'last_name' => 'Nandi',
+            'first_name' => 'A',
+            'last_name' => 'nika',
             'dob' => $dob->format('Y-m-d'),
             'sex' => 'Male',
             'desg' => 'Manager',
@@ -63,8 +63,8 @@ class UsersTableSeeder extends Seeder
         Department::create(['name' => 'Human Resources']);
 
         // Attendance seeder
-        $create = Carbon::create(2020, 8, 17, 10, 00, 23, 'Asia/Kolkata');
-        $update = Carbon::create(2020, 8, 17, 17, 00, 23, 'Asia/Kolkata');
+        $create = Carbon::create(2020, 8, 17, 10, 00, 23, 'Asia/khulna');
+        $update = Carbon::create(2020, 8, 17, 17, 00, 23, 'Asia/Khulna');
         for ($i=0; $i < 6; $i++) { 
             $attendance = Attendance::create([
                 'employee_id' => $employee->id,

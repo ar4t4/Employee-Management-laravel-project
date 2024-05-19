@@ -35,8 +35,8 @@
                 <div class="row">
                     <div class="col-12">
                         <h2 class="page-header">
-                            <i class="fas fa-globe"></i> AdminLTE, Inc.
-                            <small class="float-right">Date: 2/10/2014</small>
+                            <i class="fas fa-globe"></i>AR
+                            <small class="float-right">Date: 16/5/2024</small>
                         </h2>
                     </div>
                     <!-- /.col -->
@@ -46,11 +46,11 @@
                     <div class="col-sm-4 invoice-col">
                         From
                         <address>
-                            <strong>Admin, Inc.</strong><br />
-                            795 Folsom Ave, Suite 600<br />
-                            San Francisco, CA 94107<br />
-                            Phone: (804) 123-5432<br />
-                            Email: info@almasaeedstudio.com
+                            <strong>AR</strong><br />
+                            KUET teligati<br />
+                            Skhulna<br />
+                            Phone: 100001010<br />
+                            Email: asifrahman00010@gmail.com
                         </address>
                     </div>
                     <!-- /.col -->
@@ -58,9 +58,9 @@
                         To
                         <address>
                             <strong>John Doe</strong><br />
-                            795 Folsom Ave, Suite 600<br />
-                            San Francisco, CA 94107<br />
-                            Phone: (555) 539-1037<br />
+                            kuet<br />
+                            khulna<br />
+                            Phone:00000000001<br />
                             Email: john.doe@example.com
                         </address>
                     </div>
@@ -69,7 +69,7 @@
                         <b>Invoice #007612</b><br />
                         <br />
                         <b>Order ID:</b> 4F3S8J<br />
-                        <b>Payment Due:</b> 2/22/2014<br />
+                        <b>Payment Due:</b> 5/5/2024<br />
                         <b>Account:</b> 968-34567
                     </div>
                     <!-- /.col -->
